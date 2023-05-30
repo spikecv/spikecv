@@ -1,0 +1,6 @@
+filename: rotation_digits
+spike_w: 400
+spike_h: 250
+is_labeled: true
+labeled_data_type: [4, 5]
+labeled_data_suffix: txt

@@ -1,0 +1,8 @@
+filename: PKU-Vidar-DVS
+spike_w: 400
+spike_h: 250
+is_labeled: true
+labeled_data_type: [4]
+labeled_data_suffix: txt
+label_field_identifier: labels
+data_field_identifier: Vidar

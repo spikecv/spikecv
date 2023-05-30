@@ -1,0 +1,7 @@
+filename: OpticalFlowSPIFT
+spike_w: 800
+spike_h: 500
+transform: False
+is_labeled: true
+labeled_data_type: [2]
+labeled_data_suffix: flo
